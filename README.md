@@ -1,5 +1,11 @@
 # Meme Picker: Pumpkin's Purrfect Meme Picker
 
+[![Demo](https://github.com/user-attachments/assets/ca6a236d-c94c-4649-839b-dc99a7a815eb)](https://wonderful-gumdrop-53af52.netlify.app/)
+
+> Click the image to view the demo. The link will open in the current tab (press `Ctrl + Click` or `Cmd + Click` to open in a new tab).
+
+
+## Description
 This project is a fun web app called "Pumpkin's Purrfect Meme Picker," where users can select their current emotion and receive a matching meme of a cute cat, displayed in a modal popup. You can also filter the memes by animated GIFs.
 
 ## Features
@@ -8,10 +14,6 @@ This project is a fun web app called "Pumpkin's Purrfect Meme Picker," where use
 - Click a button to get a random meme based on the selected emotion.
 - View the meme in a modal popup.
 - Close the modal popup by clicking the close button or outside the modal.
-
-## Demo
-
-Live demo is coming soon!
 
 ## Tech Stack
 - HTML
